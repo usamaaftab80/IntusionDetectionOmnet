@@ -1,3 +1,3 @@
 package zoninganalysis;
 
-@license(LGPL);
+@license(omnetpp);
