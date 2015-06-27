@@ -1,3 +1,0 @@
-package zoninganalysis;
-
-@license(omnetpp);
