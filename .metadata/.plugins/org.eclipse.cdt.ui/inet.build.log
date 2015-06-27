@@ -1,0 +1,6 @@
+15:02:36 **** Incremental Build of configuration gcc-debug for project inet ****
+make MODE=debug CONFIGNAME=gcc-debug -j3 all 
+cd src && /Library/Developer/CommandLineTools/usr/bin/make all
+
+15:02:37 Build Finished (took 328ms)
+
